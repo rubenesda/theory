@@ -1,2 +1,2 @@
 # theory
-theory two
+theory two, three
